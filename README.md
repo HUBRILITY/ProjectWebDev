@@ -24,5 +24,8 @@ Robert Taylor - Director of ARPA and pioneer of the internet. His work Time Shar
 Raymond Tomlinson - A programmer otherwise known as the father of email. He wrote the original program for email using the iconic @ sign to seperate users from the computer on the ARPANET.  
 Robert Metcalfe (MIT) - Co-founder of Ethernet and known for Metcalf's law which describes the effects of telecommunications network. Compiled a list of what networks could do which at the time amounted to only 19 things such as games, formulas, and java entry.  
 Sir Timothy Berners-Lee - Inventor of the World Wide Web. Working for CERN, he connected Hypertext with the largest internet node at the time. He created first website ever to describe his project. Check out this out for some feels! http://info.cern.ch/hypertext/WWW/TheProject.html  
+Marc Andreessen - Co founder of Mosiac and Netscape, the first and most popular web broswers at the time. Changed the world via Global Hypermedia incorporating text, video, and audio.  
+James H Clark - Former dropout turned computer science legend. Founder of several Silcon Valley Companies and famously known for turning his $4 Million investment in Netscape into $1.2 Billion after being acquired by AOL in 1999.  
+
 
 
