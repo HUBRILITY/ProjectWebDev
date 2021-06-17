@@ -16,7 +16,13 @@ The origins of the Internet can be traced back to the 1950s. Back in those days,
 
 
 ## The Forerunners
-Leonard Kleinrock (MIT) - Helped develop underline markdown
-, concentrating on queing theory (basis for packet switching), demand access, and distributed control.
-Claude Shannon - (MIT) - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in cryptography during WWII. Made Theseus, a maze solving mouse using relays for a brain.
-Paul Baran - One of the two recognized inventors of the concept digital packet switching. Tasked with creating an Indestructable Communications Network capable of surving a nuclear attack while working for RAND.
+Leonard Kleinrock (MIT) - Helped develop underline markdown, concentrating on queing theory (basis for packet switching), demand access, and distributed control.  
+Claude Shannon (MIT) - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in cryptography during WWII. Made Theseus, a maze solving mouse using relays for a brain.  
+Paul Baran - One of the two recognized inventors of the concept digital packet switching. Tasked with creating an Indestructable Communications Network capable of surving a nuclear attack while working for RAND.  
+Lawrence Roberts (MIT) - Manager and Director for the Advanced Research Projects Agency (ARPA). Led team that developed the ARPANET using packet switching and built by Bolt Beranek and Newman (BBN).  
+Robert Taylor - Director of ARPA and pioneer of the internet. His work Time Sharing led to the idea of one terminal capable of communicating with all machines.  
+Raymond Tomlinson - A programmer otherwise known as the father of email. He wrote the original program for email using the iconic @ sign to seperate users from the computer on the ARPANET.  
+Robert Metcalfe (MIT) - Co-founder of Ethernet and known for Metcalf's law which describes the effects of telecommunications network. Compiled a list of what networks could do which at the time amounted to only 19 things such as games, formulas, and java entry.  
+Sir Timothy Berners-Lee - Inventor of the World Wide Web. Working for CERN, he connected Hypertext with the largest internet node at the time. He created first website ever to describe his project. Check out this out for some feels! http://info.cern.ch/hypertext/WWW/TheProject.html  
+
+
