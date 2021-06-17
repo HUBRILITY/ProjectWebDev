@@ -30,6 +30,7 @@ Bill Gates - Harvard dropout who co-founded Microsoft with Paul Allen out of the
 Paul Allen - Co-Founder of Microsoft. Helped develop what has grown to be one of the dominant operating systems to this day, Windows.  
 Jerry Yang & David Filo (Stanford) - Co-Founders of Yahoo whose need for fantasy basketball data led to a directory for navigating the web.  
 Larry Page & Sergey Brin - Co-founders of Google, the most dominant and widely used search engine in the world. Their idea was to interpret and count links (Inlink Count) as votes to determine serach ranking.  
+Bill Gross - Founder of Idealab and a lifelong problem solver. Recognized the power of Search Engines as a Market Research Tool opening a window into the mind of intent. He recognized that **KEYWORDS** were worth a fortune and used sponsored listing, such as in the Yellowpages, as a way to monetize search. Google being the ultimate beneficiary.  
 
 
 
