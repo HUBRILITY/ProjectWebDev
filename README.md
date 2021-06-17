@@ -15,7 +15,7 @@ The ability to manage manpower, material, and information, instantly and free fr
 The origins of the Internet can be traced back to the 1950s. Back in those days, the hottest communication device was the Telephone which required a dedicated circuit that would fail if the connection was broken. Computers, let alone the internet, were practically science fiction and the earliest ones were so big they filled up entire rooms!
 
 
-## The Forerunners
+## The Forerunners & Pioneers
 Leonard Kleinrock (MIT) - Helped develop underline markdown, concentrating on queing theory (basis for packet switching), demand access, and distributed control.  
 Claude Shannon (MIT) - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in cryptography during WWII. Made Theseus, a maze solving mouse using relays for a brain.  
 Paul Baran - One of the two recognized inventors of the concept digital packet switching. Tasked with creating an Indestructable Communications Network capable of surving a nuclear attack while working for RAND.  
@@ -26,6 +26,11 @@ Robert Metcalfe (MIT) - Co-founder of Ethernet and known for Metcalf's law which
 Sir Timothy Berners-Lee - Inventor of the World Wide Web. Working for CERN, he connected Hypertext with the largest internet node at the time. He created first website ever to describe his project. Check out this out for some feels! http://info.cern.ch/hypertext/WWW/TheProject.html  
 Marc Andreessen - Co founder of Mosiac and Netscape, the first and most popular web broswers at the time. Changed the world via Global Hypermedia incorporating text, video, and audio.  
 James H Clark - Former dropout turned computer science legend. Founder of several Silcon Valley Companies and famously known for turning his $4 Million investment in Netscape into $1.2 Billion after being acquired by AOL in 1999.  
+Bill Gates - Harvard dropout who co-founded Microsoft with Paul Allen out of their garage. Their legacy is somewhat controversial and well known today, but aside from that, at one point, roughly 90% of the world was running on Windows!  
+Paul Allen - Co-Founder of Microsoft. Helped develop what has grown to be one of the dominant operating systems to this day, Windows.  
+Jerry Yang & David Filo (Stanford) - Co-Founders of Yahoo whose need for fantasy basketball data led to a directory for navigating the web.  
+Larry Page & Sergey Brin - Co-founders of Google, the most dominant and widely used search engine in the world. Their idea was to interpret and count links (Inlink Count) as votes to determine serach ranking.  
+
 
 
 
