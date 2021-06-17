@@ -13,3 +13,10 @@ Today, the Internet enables billions of people around to globe to interact, exch
 The ability to manage manpower, material, and information, instantly and free from barriers has changed the global landscape and humanity as a species. So how did we get here how the heck did life exist before the internet??
 
 The origins of the Internet can be traced back to the 1950s. Back in those days, the hottest communication device was the Telephone which required a dedicated circuit that would fail if the connection was broken. Computers, let alone the internet, were practically science fiction and the earliest ones were so big they filled up entire rooms!
+
+
+## The Forerunners
+Leonard Kleinrock (MIT) - Helped develop underline markdown
+, concentrating on queing theory (basis for packet switching), demand access, and distributed control.
+Claude Shannon - (MIT) - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in cryptography during WWII. Made Theseus, a maze solving mouse using relays for a brain.
+Paul Baran - One of the two recognized inventors of the concept digital packet switching. Tasked with creating an Indestructable Communications Network capable of surving a nuclear attack while working for RAND.
