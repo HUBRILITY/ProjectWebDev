@@ -16,7 +16,9 @@ The origins of the Internet can be traced back to the 1950s. Back in those days,
 
 ![alt text](http://1.bp.blogspot.com/-0JIpYaBYwAg/VbFIJvzujuI/AAAAAAAACAE/9-Uj6Sh-xas/s1600/121121034453-witch-computer-restoration-uk-story-top.jpg)  
 
-However, science fiction would soon be come science fact as the Cold War and Space Race were spurring rapid technological advancement. While some had the goal of landing man on the moon and bringing them back, others were dreaming up the concept of an "Intergalactic Computer Network". With the threat of nuclear war, the demand grew for a communication network that could survive such an attack. In 1966, Robert Taylor successfully lobbied the Department of Defense's Advanced Research Project Agency (ARPA) to gain $1 Million in funding for a networking project that would come to be known as the ARPANET, the foundation of today's Internet.  
+However, science fiction would soon be come science fact as the Cold War and Space Race were spurring rapid technological advancement. One such major advancement was the invention of the Silicon Chip in 1961 which allowed for miniaturization and would lay the ground work for modern computers. While some had the goal of landing man on the moon and bringing them back, others were dreaming up the concept of an "Intergalactic Computer Network". With the threat of nuclear war, the demand grew for a communication network that could survive such an attack. In 1966, Robert Taylor successfully lobbied the Department of Defense's Advanced Research Project Agency (ARPA) to gain $1 Million in funding for a networking project that would come to be known as the ARPANET, the foundation of today's Internet.  
+
+
 
 ## Forerunners & Pioneers
 ###### In no particluar order
