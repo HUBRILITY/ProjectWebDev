@@ -9,13 +9,17 @@ Join us on our journey and find inspiration to become a legendary Web Developer!
 
 ## ROOT - The Invention of the Internet
 
-Today, the Internet enables billions of people around to globe to interact, exchanec messages, conduct business, find information, and so much more in virtually real time.
-The ability to manage manpower, material, and information, instantly and free from barriers has changed the global landscape and humanity as a species. So how did we get here how the heck did life exist before the internet??
+Today, the Internet enables billions of people around to globe to interact, exchange messages, conduct business, find information, and so much more in virtually real time.
+The ability to manage manpower, material, and information, instantly and free from barriers has changed the global landscape and humanity as a species. So how did we get here and how the heck did life exist before the internet??
 
-The origins of the Internet can be traced back to the 1950s. Back in those days, the hottest communication device was the Telephone which required a dedicated circuit that would fail if the connection was broken. Computers, let alone the internet, were practically science fiction and the earliest ones were so big they filled up entire rooms!
+The origins of the Internet can be traced back to the 1950s. Back in those days, the hottest communication device was the Telephone which required a dedicated circuit that would fail if the connection was broken. Computers, let alone the internet, were practically science fiction and the earliest ones were so big they filled up entire rooms!  
+
+![alt text](http://1.bp.blogspot.com/-0JIpYaBYwAg/VbFIJvzujuI/AAAAAAAACAE/9-Uj6Sh-xas/s1600/121121034453-witch-computer-restoration-uk-story-top.jpg)  
+
 
 
 ## Forerunners & Pioneers
+###### In no particluar order
 **Leonard Kleinrock (MIT)** - Helped develop *ARPANET*, concentrating on *queing theory* (basis for packet switching), demand access, and distributed control.  
 
 **Claude Shannon (MIT)** - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in *cryptography* during WWII. Made Theseus, a maze solving mouse using relays for a brain. 
