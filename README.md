@@ -66,7 +66,7 @@ The origins of the Internet can be traced back to the 1950s. Back in those days,
 
 **Jimmy Wales** - Co Founder of the non-profit Internet Encyclopedia, *Wikipedia*. https://www.wikipedia.org/  
 
-Notice anyone missing who should be featured on this list!? Contact us at (Insert Email Here).
+---Notice anyone missing who should be featured on this list!? Contact us at (Insert Email Here).---
 
 
 
