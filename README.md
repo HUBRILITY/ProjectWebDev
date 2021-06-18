@@ -16,11 +16,13 @@ The origins of the Internet can be traced back to the 1950s. Back in those days,
 
 
 ## The Forerunners & Pioneers
-Leonard Kleinrock (MIT) - Helped develop underline markdown, concentrating on queing theory (basis for packet switching), demand access, and distributed control.  
+Leonard Kleinrock (MIT) - Helped develop ARPANET, concentrating on queing theory (basis for packet switching), demand access, and distributed control.  
 Claude Shannon (MIT) - Known as the Father of Information Theory. Published "A Mathematical Theory of Communication" in 1948. Specialized in cryptography during WWII. Made Theseus, a maze solving mouse using relays for a brain.  
 Paul Baran - One of the two recognized inventors of the concept digital packet switching. Tasked with creating an Indestructable Communications Network capable of surving a nuclear attack while working for RAND.  
 Lawrence Roberts (MIT) - Manager and Director for the Advanced Research Projects Agency (ARPA). Led team that developed the ARPANET using packet switching and built by Bolt Beranek and Newman (BBN).  
 Robert Taylor - Director of ARPA and pioneer of the internet. His work Time Sharing led to the idea of one terminal capable of communicating with all machines.  
+Vint Cerf - Known as one of the fathers of the Internet. He and Bob Khan co-developed the TCP/IP communications protocols for the internet while working for DARPA.  
+Bob Khan - The other father of the Internet. His devlopment of the TCP protocol and open arhitecture for the internet is how computers networks around the world are able to communicate with each other.
 Raymond Tomlinson - A programmer otherwise known as the father of email. He wrote the original program for email using the iconic @ sign to seperate users from the computer on the ARPANET.  
 Robert Metcalfe (MIT) - Co-founder of Ethernet and known for Metcalf's law which describes the effects of telecommunications network. Compiled a list of what networks could do which at the time amounted to only 19 things such as games, formulas, and java entry.  
 Sir Timothy Berners-Lee - Inventor of the World Wide Web. Working for CERN, he connected Hypertext with the largest internet node at the time. He created first website ever to describe his project. Check out this out for some feels! http://info.cern.ch/hypertext/WWW/TheProject.html  
@@ -38,6 +40,7 @@ Chad Hurley - Co-Founder of Youtube. Although sold to Google back in 2006, Youtu
 Mark Zuckerburg - Co-Founder and current CEO of Facebook. In 2012 Facebook's socia network exceeded the 1 Billion user mark on their platform.  
 Shawn Fanning - Founder of Napster who completed the code in 1999 resulting in a explosion of downloads. Naptser's peer to peer architecture allowed for filesharing with other computers on the platform. Eventually shut down due to the infamous lawsuits relating to music piracy, but led to Apple Music.  
 Tom Anderson - Former hack and eventual Co-Founder of Myspace. A social networking icon who by default was everyone's first friend after joining Myspace.  
+Jimmy Wales - Co Founder of the non-profit Internet Encyclopedia, Wikipedia. https://www.wikipedia.org/  
 
 
 
