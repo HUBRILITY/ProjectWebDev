@@ -34,6 +34,7 @@ Bill Gross - Founder of Idealab and a lifelong problem solver. Recognized the po
 Pierre Omidyar - Founder of EBAY. He wrote the code and created his prototype site for peer to peer auction over Labor Day Weekend in 1995... Goals much??  
 Whitfield Diffie, Martin Hellman & Ralph Merkle - Best known for inventing Public Key Cryptography although only Diffie and Hellman authored, "New Direction in Public Cryptography".  
 Jeff Bezos - Founder of Amazon. The online book seller has taken over E-Commerce and Amazon Web Services has become the world leader in Cloud Computing Services.  
-
+Chad Hurley - Co-Founder of Youtube. Although sold to Google back in 2006, Youtube has become the premier video sharing platform of the internet.
+Mark Zuckerburg - Co-Founder and current CEO of Facebook. In 2012 Facebook's socia network exceeded the 1 Billion user mark on their platform. 
 
 
