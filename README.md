@@ -32,6 +32,8 @@ Jerry Yang & David Filo (Stanford) - Co-Founders of Yahoo whose need for fantasy
 Larry Page & Sergey Brin - Co-founders of Google, the most dominant and widely used search engine in the world. Their idea was to interpret and count links (Inlink Count) as votes to determine serach ranking.  
 Bill Gross - Founder of Idealab and a lifelong problem solver. Recognized the power of Search Engines as a Market Research Tool opening a window into the mind of intent. He recognized that **KEYWORDS** were worth a fortune and used sponsored listing, such as in the Yellowpages, as a way to monetize search. Google being the ultimate beneficiary.  
 Pierre Omidyar - Founder of EBAY. He wrote the code and created his prototype site for peer to peer auction over Labor Day Weekend in 1995... Goals much??  
+Whitfield Diffie, Martin Hellman & Ralph Merkle - Best known for inventing Public Key Cryptography although only Diffie and Hellman authored, "New Direction in Public Cryptography".  
+Jeff Bezos - Founder of Amazon. The online book seller has taken over E-Commerce and Amazon Web Services has become the world leader in Cloud Computing Services.  
 
 
 
