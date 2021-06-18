@@ -35,6 +35,10 @@ Pierre Omidyar - Founder of EBAY. He wrote the code and created his prototype si
 Whitfield Diffie, Martin Hellman & Ralph Merkle - Best known for inventing Public Key Cryptography although only Diffie and Hellman authored, "New Direction in Public Cryptography".  
 Jeff Bezos - Founder of Amazon. The online book seller has taken over E-Commerce and Amazon Web Services has become the world leader in Cloud Computing Services.  
 Chad Hurley - Co-Founder of Youtube. Although sold to Google back in 2006, Youtube has become the premier video sharing platform of the internet.
-Mark Zuckerburg - Co-Founder and current CEO of Facebook. In 2012 Facebook's socia network exceeded the 1 Billion user mark on their platform. 
+Mark Zuckerburg - Co-Founder and current CEO of Facebook. In 2012 Facebook's socia network exceeded the 1 Billion user mark on their platform.  
+Shawn Fanning - Founder of Napster who completed the code in 1999 resulting in a explosion of downloads. Naptser's peer to peer architecture allowed for filesharing with other computers on the platform. Eventually shut down due to the infamous lawsuits relating to music piracy, but led to Apple Music.  
+Tom Anderson - Former hack and eventual Co-Founder of Myspace. A social networking icon who by default was everyone's first friend after joining Myspace.  
+
+
 
 
